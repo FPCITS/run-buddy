@@ -1,8 +1,10 @@
-*{    
-    font-family: "Helvetica", "Arial", sans-serif;
+*{
+    margin: 0;
+    padding: 0;
 }
 body {
     /* more on this crazy alphanumerical value in a minute! */
+    font-family: "Helvetica", "Arial", sans-serif;
     color: #39a6b2;
 }
 
@@ -17,6 +19,7 @@ header h1 {
     font-size: 36px;
     color: #fce138;
     margin: 0;
+    display: inline;
 }
 
 header a {
